@@ -43,8 +43,6 @@ function ExpandedCountryCard ({ setIsCardExpanded, moreDetails, setMoreDetails, 
         const newCountry = dataCopy.filter((country) => {
             return country.cioc === border;
         })
-
-        console.log(newCountry);
         newCountry[0] ? setMoreDetails({
             flagImg: newCountry[0].flags.png,
             name: newCountry[0].name.common,
