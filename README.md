@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [(https://github.com/Gelianthus/fm_rest-country-api)]
-- Live Site URL: [(https://gelianthus.github.io/fm_rest-country-api/)]
+- Solution URL: [https://github.com/Gelianthus/fm_rest-country-api]
+- Live Site URL: [https://gelianthus.github.io/fm_rest-country-api/]
 
 ## My process
 
